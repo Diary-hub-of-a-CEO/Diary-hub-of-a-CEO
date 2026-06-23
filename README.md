@@ -67,11 +67,13 @@
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
 
-![snake gif](https://github.com/Diary-hub-of-a-CEO/Diary-hub-of-a-CEO/blob/output/github-contribution-grid-snake.svg)
+# 🧠 STEP 3: Snake Animation Setup
 
----
+Create:
+
+```text
+.github/workflows/snake.yml
 
 # 🎯 WHAT I'M BUILDING
 
