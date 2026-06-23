@@ -68,18 +68,25 @@
 ---
 
 
-# 🧠 STEP 3: Snake Animation Setup
+name: Generate Snake Animation
 
-Create:
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-```text
-.github/workflows/snake.yml
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-# 🎯 WHAT I'M BUILDING
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Diary-hub-of-a-CEO
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-```text
-🏠 Roomly → Rental Marketplace
-⚡ FastFill → Listing Boost System
-🪙 Coins System → Engagement Economy
-🎥 Reels Feed → Property Discovery
-🤖 AI Tools → Smart Pricing & Descriptions
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/
