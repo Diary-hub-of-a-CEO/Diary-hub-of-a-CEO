@@ -1,18 +1,19 @@
-<!-- PREMIUM HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=SASHWAT%20KHATIWADA&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<!-- HEADER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=CEO-Codes&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hi, I'm Sashwat Khatiwada
 
 🚀 Founder of Roomly  
-🏠 Building Nepal’s next-generation rental marketplace  
-💡 Full Stack Developer | Startup Builder | AI Enthusiast  
+🧠 CEO of Rawthink AI  
+🇳🇵 Building scalable tech startups from Nepal  
+💡 Full Stack Developer | AI Builder | SaaS Founder  
 
 ---
 
-<!-- TYPING ANIMATION -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=800&lines=Founder+of+Roomly;Full+Stack+Developer;AI+Startup+Builder;Building+from+Nepal;SaaS+%26+Marketplace+Builder)
+<!-- ANIMATED TYPING -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=800&lines=Founder+of+Roomly+🚀;CEO+of+Rawthink+AI;Full+Stack+Developer;Startup+Builder+from+Nepal)
 
----
+
 
 # 🧠 ABOUT ME
 
