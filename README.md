@@ -5,37 +5,38 @@
 
 🚀 Founder | Full Stack Developer | Startup Builder  
 🇳🇵 Building scalable tech products from Nepal  
-💡 Focused on AI, SaaS & Marketplace systems  
+💡 AI • SaaS • Marketplace Systems  
 
 ---
 
-<!-- TYPING ANIMATION -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=800&lines=CEO-Codes;Founder+of+Roomly;Full+Stack+Developer;AI+Startup+Builder;Building+from+Nepal+to+the+World)
+<!-- TYPING EFFECT -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=800&lines=Founder+of+Roomly;Full+Stack+Developer;AI+Startup+Builder;Building+from+Nepal+to+the+World)
 
 ---
 
 # 🧠 ABOUT ME
 
-- 🏠 Founder of **Roomly (Rental Marketplace Platform)**
+- 🏠 Founder of **Roomly (Rental Marketplace)**
 - ⚙️ Full Stack Developer (React, Firebase, Node.js)
-- 🤖 Exploring AI + SaaS systems
-- 📈 Building scalable startup products
-- 🎯 Goal: Global tech founder from Nepal
+- 🤖 Building AI-powered SaaS tools
+- 📈 Focused on scalable startup systems
+- 🎯 Goal: Build global products from Nepal
 
 ---
 
-# 🚀 CURRENT PROJECT
+# 🚀 CURRENT STARTUP
 
 ## 🏠 Roomly
-*A modern rental discovery platform*
+*A modern rental marketplace for Nepal*
 
-### 🔥 Core Features:
-- Verified Listings System
-- FastFill Boost Engine
-- Reels-based property discovery
-- Landlord & Tenant dashboards
-- Referral + Coins economy
-- Subscription monetization model
+### 🔥 Core Modules
+- Verified Listings System  
+- FastFill Boost Engine  
+- Reels-based property discovery  
+- Landlord Dashboard  
+- Tenant Matching System  
+- Referral & Rewards System  
+- Subscription Revenue Model  
 
 ---
 
@@ -45,13 +46,19 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GITHUB STATS (CLEAN)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diary-hub-of-a-CEO&show_icons=true&theme=tokyonight)
+
+---
+
+# 📈 ACTIVITY GRAPH (PROFESSIONAL LOOK)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diary-hub-of-a-CEO&theme=tokyo-night)
 
 ---
 
@@ -61,32 +68,17 @@
 
 ---
 
-# 📈 TOP LANGUAGES
+# 📈 MOST USED LANGUAGES
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diary-hub-of-a-CEO&layout=compact&theme=tokyonight)
 
 ---
 
+# 🎯 CURRENT FOCUS
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Diary-hub-of-a-CEO
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/
+```text
+🏠 Roomly → Rental Marketplace Platform
+⚡ FastFill → Listing Boost System
+🪙 Roomly Coins → Engagement Economy
+🎥 Reels Feed → Property Discovery
+🤖 AI Layer → Smart Pricing + Descriptions
