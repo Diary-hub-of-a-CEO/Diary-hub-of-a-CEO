@@ -1,7 +1,7 @@
 <!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=CEO-Codes&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-# 👋 Hi, I'm CEO-Codes
+# 👋 Hi, I'm SASHWAT
 
 🚀 Founder | Full Stack Developer | Startup Builder  
 🇳🇵 Building scalable tech products from Nepal  
