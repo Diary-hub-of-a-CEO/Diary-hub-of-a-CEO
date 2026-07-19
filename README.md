@@ -55,18 +55,25 @@
 
 ---
 
-# 🧰 TECH STACK
+# 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+### 🎨 Design
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
+</p>
 
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite"/>
+</p>
+
+### ⚙ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase"/>
+</p>
 # 📊 GITHUB STATS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diary-hub-of-a-CEO&show_icons=true&theme=tokyonight)
